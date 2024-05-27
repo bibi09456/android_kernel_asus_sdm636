@@ -10,7 +10,7 @@
 :arrow_forward: clone with `--recursive` option because this source has KernelSU submodule.
 
 ```bash
-git clone --recursive https://github.com/Tiktodz/android_kernel_asus_sdm636 -b codelinaro-hmp
+git clone --recursive https://github.com/Tiktodz/android_kernel_asus_sdm636
 ```
 
 :arrow_forward: For building <b>Android 9 or 10 ROM</b>, Revert this [commit](https://github.com/Tiktodz/android_kernel_asus_sdm636/commit/75a6f2ddf0ec85b8b979ae765be67659311708ab)

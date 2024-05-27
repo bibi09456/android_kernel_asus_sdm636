@@ -1,8 +1,8 @@
-<b><#selectbg_g>Mar 15,2024</#></b>
+<b><#selectbg_g>May 27,2024</#></b>
 
-  <*> KernelSU update v0.8.1</*>
-  <*> Improve network stability</*>
-  <*> adsprpc: Handle UAF</*>
+  <*> KernelSU update v0.9.3</*>
+  <*> backported jump label</*>
+  <*> disable vmstat event counters</*>
   <*> Add More Tweak Changes, and Improvements</*>
 
 
@@ -10,7 +10,7 @@
 <b><#selectbg_g>NOTES :</#></b>
 
   <*> Now you can use both KernelSU and Magisk, it's better to just choose one</*>
-  <*> Recommended to use KernelSU Manager v0.8.1</*>
+  <*> Recommended to use KernelSU Manager v0.7.6</*>
   <*> Kernel need sometimes to settle.</*>
 
 
